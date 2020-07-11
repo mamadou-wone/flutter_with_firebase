@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "892382722737",
+    "firebase_url": "https://bossapp-a9995.firebaseio.com",
+    "project_id": "bossapp-a9995",
+    "storage_bucket": "bossapp-a9995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892382722737:android:dd40568c19f054d6398090",
+        "android_client_info": {
+          "package_name": "com.m_wone.coffee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892382722737-4qg4ulmcb1i2e330htl19a6udmikfq8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaA0I7evyDmGCYPGJhK6Erp6jEjuW2emk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892382722737-4qg4ulmcb1i2e330htl19a6udmikfq8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
